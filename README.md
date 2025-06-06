@@ -2,7 +2,7 @@
 
 This project demonstrates how to automate a workflow using Make.com, OpenAI (ChatGPT API), Google Forms, and Slack.
 
-## 📌 Purpose
+## Purpose
 
 This was created as part of an application for Zschool’s AI/ML Automation Internship. The goal was to build a real-world workflow that:
 
@@ -10,7 +10,7 @@ This was created as part of an application for Zschool’s AI/ML Automation Inte
 2. Sends the response to ChatGPT for summarization
 3. Posts the summary to a Slack channel
 
-## ⚙️ Tools Used
+## Tools Used
 
 - [Google Forms](https://forms.google.com) for collecting responses
 - [Google Sheets](https://sheets.google.com) to store form submissions
@@ -18,7 +18,7 @@ This was created as part of an application for Zschool’s AI/ML Automation Inte
 - [OpenAI API](https://platform.openai.com) for summarizing text using ChatGPT
 - [Slack](https://slack.com) for team communication
 
-## 🔄 How It Works
+## How It Works
 
 1. User submits a Google Form
 2. Google Sheets captures the submission
@@ -26,7 +26,7 @@ This was created as part of an application for Zschool’s AI/ML Automation Inte
 4. OpenAI returns a summary
 5. Make.com posts the summary in a designated Slack channel
 
-## 🖼️ Screenshots
+## Screenshots
 
 ### 1. Google Form Submission
 ![Google Form](Google Form Spreadsheet.jpg)
@@ -36,14 +36,4 @@ This was created as part of an application for Zschool’s AI/ML Automation Inte
 
 ### 3. Slack Output
 ![Slack](Slack AI Message.jpg)
-
-## 📌 Author
-
-Victor Santana Pimentel – [LinkedIn](https://linkedin.com/in/yourusername)
-
----
-
-## 💬 Contact
-
-Feel free to fork this or reach out if you want to build similar automations!
 
