@@ -29,13 +29,13 @@ This was created as part of an application for Zschool’s AI/ML Automation Inte
 ## 🖼️ Screenshots
 
 ### 1. Google Form Submission
-![Google Form](screenshots/form.png)
+![Google Form](Google Form Spreadsheet.jpg)
 
 ### 2. Make.com Scenario
-![Scenario](screenshots/make-scenario.png)
+![Scenario](Make.com Automation.jpg)
 
 ### 3. Slack Output
-![Slack](screenshots/slack-message.png)
+![Slack](Slack AI Message.jpg)
 
 ## 📌 Author
 
