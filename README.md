@@ -1,9 +1,5 @@
 # AI-Powered Google Form to Slack Automation
 
-This project demonstrates how to automate a workflow using Make.com, OpenAI (ChatGPT API), Google Forms, and Slack.
-
-## Purpose
-
 This was created as part of an application for Zschool’s AI/ML Automation Internship. The goal was to build a real-world workflow that:
 
 1. Captures a Google Form submission
@@ -29,11 +25,11 @@ This was created as part of an application for Zschool’s AI/ML Automation Inte
 ## Screenshots
 
 ### 1. Google Form Submission
-![Google Form](Google Form Spreadsheet.jpg)
+![Google Form](Google-Form-Spreadsheet.jpg)
 
 ### 2. Make.com Scenario
-![Scenario](Make.com Automation.jpg)
+![Scenario](Make.com-Automation.jpg)
 
 ### 3. Slack Output
-![Slack](Slack AI Message.jpg)
+![Slack](Slack-AI-Message.jpg)
 
